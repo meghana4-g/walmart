@@ -1,2 +1,2 @@
-sh
+test
 test
